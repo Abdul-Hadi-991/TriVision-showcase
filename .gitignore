@@ -1,0 +1,46 @@
+# Secrets and keys
+.env
+.env.*
+*.key
+*.pem
+*.p12
+secrets*
+
+# Personal / customer data
+data/
+*.db
+*.sqlite*
+*.npy
+snapshots/
+faces/
+
+# Models and weights
+models/
+*.onnx
+*.pt
+*.pth
+
+# Logs and caches
+logs/
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+dist/
+.cache/
+
+# Source code (this repo is a showcase only)
+*.py
+*.pyw
+*.ts
+*.tsx
+*.js
+*.ino
+*.bat
+
+# Tooling notes
+CLAUDE.md
+.claude/
+memory.md

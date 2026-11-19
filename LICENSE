@@ -1,0 +1,13 @@
+Copyright (c) 2026 A Abdul Hadi. All rights reserved.
+
+This repository is a showcase of TriVision (FaceGate, Gesture Lab and Crowd
+Control). The software, its design and all text and images here are the
+original work and sole property of A Abdul Hadi.
+
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense or sell this work or any part of it without prior written
+permission from the copyright holder.
+
+Third-party models and libraries mentioned here (InsightFace, MiniFASNet,
+MediaPipe, three.js and others) remain under their own licences and are not
+covered by this notice.
