@@ -4,7 +4,7 @@
 
 > **Headline:** FaceGate runs real-time face recognition **and** anti-spoofing entirely offline on a 6 GB laptop GPU, at about **25 FPS at 1080p**, and no face image ever leaves the PC.
 
-Built by **A Abdul Hadi**, Grade 12 student. This repository is a **showcase only**: it documents what the project does and how it works. The source code is not published (see [Licence](#licence)).
+A Grade 12 student project. This repository is a **showcase only**: it documents what the project does and how it works. The source code is not published (see [Licence](#licence)).
 
 ---
 
